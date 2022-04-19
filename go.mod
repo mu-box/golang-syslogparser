@@ -1,4 +1,4 @@
-module github.com/jeromer/syslogparser
+module github.com/mu-box/golang-syslogparser
 
 go 1.14
 

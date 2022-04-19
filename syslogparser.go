@@ -5,7 +5,7 @@ package syslogparser
 import (
 	"time"
 
-	"github.com/jeromer/syslogparser/parsercommon"
+	"github.com/mu-box/golang-syslogparser/parsercommon"
 )
 
 type RFC uint8

@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/jeromer/syslogparser"
-	"github.com/jeromer/syslogparser/parsercommon"
+	syslogparser "github.com/mu-box/golang-syslogparser"
+	"github.com/mu-box/golang-syslogparser/parsercommon"
 )
 
 const (

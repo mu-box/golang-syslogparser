@@ -7,7 +7,7 @@ This is a syslog parser for the Go programming language.
 Installing
 ----------
 
-go get github.com/nanobox-io/golang-syslogparser
+go get github.com/mu-box/golang-syslogparser
 
 
 Supported RFCs
